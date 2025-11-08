@@ -6,7 +6,7 @@
 ## JAVA
 
 + [JavaSE基础](Java/JavaSE基础/Java基础语法.md)
-+ [JavaSE进阶](Java/JavaSE进阶/Java 进阶.md)
++ [JavaSE进阶](Java/JavaSE进阶/Java进阶.md)
 + JavaWeb
   + [Maven](Java/JavaWeb/Maven/Maven.md)
   + [Mybatis](Java/JavaWeb/Mybatis/Mybaits.md)

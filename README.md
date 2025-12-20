@@ -65,6 +65,7 @@
 ## Linux
 
 + [精简版](Linux/精简版/Linux（精简版）.md)
++ [详细版](Linux/详细版/Linux.md)
 
 
 
